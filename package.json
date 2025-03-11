@@ -1,0 +1,24 @@
+{
+  "name": "midterm-exam-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsenjoJL/-midterm-exam-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AsenjoJL/-midterm-exam-solution/issues"
+  },
+  "homepage": "https://github.com/AsenjoJL/-midterm-exam-solution#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
